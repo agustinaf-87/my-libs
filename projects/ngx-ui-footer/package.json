@@ -1,0 +1,19 @@
+{
+  "name": "ngx-ui-footer-af",
+  "version": "2.0.2",
+  "peerDependencies": {
+    "@angular/common": "^15.2.0",
+    "@angular/core": "^15.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  
+    "author": {
+        "name": "Agustina Fernández",
+        "email": "fernandez.agustinaelena@gmail.com"
+    }
+  }
+  
+
